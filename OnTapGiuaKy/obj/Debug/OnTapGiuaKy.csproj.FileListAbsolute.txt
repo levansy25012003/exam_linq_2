@@ -1,0 +1,7 @@
+D:\ThayHuy\OnTapGiuaKy\OnTapGiuaKy\bin\Debug\OnTapGiuaKy.exe.config
+D:\ThayHuy\OnTapGiuaKy\OnTapGiuaKy\bin\Debug\OnTapGiuaKy.exe
+D:\ThayHuy\OnTapGiuaKy\OnTapGiuaKy\bin\Debug\OnTapGiuaKy.pdb
+D:\ThayHuy\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.csproj.AssemblyReference.cache
+D:\ThayHuy\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.csproj.CoreCompileInputs.cache
+D:\ThayHuy\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.exe
+D:\ThayHuy\OnTapGiuaKy\OnTapGiuaKy\obj\Debug\OnTapGiuaKy.pdb
